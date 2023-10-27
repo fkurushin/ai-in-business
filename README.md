@@ -20,3 +20,9 @@ The dataset has the following features:
 - Data Set Characteristics: **Multivariate**
 - Number of Instances: **50 425**
 - Number of classes: **4**
+
+# Current progress:
+
+- EDA
+- Text processing
+- TfIdf + LogReg with 0.92 score

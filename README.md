@@ -1,17 +1,22 @@
-# ai-in-buisness
+# AI in buisness
 Repo for working and collaborate with other team members on task, given in MEPhI at ai in buisness course
 
-[задача](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
+[**Task on kaggle**](https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification)
 
 
-This is the classification based E-commerce text dataset for 4 categories - "Electronics", "Household", "Books" and "Clothing & Accessories", which almost cover 80% of any E-commerce website.
+This is the classification based E-commerce text dataset for 4 categories:
 
-The dataset is in ".csv" format with two columns - the first column is the class name and the second one is the datapoint of that class. The data point is the product and description from the e-commerce website.
+- "Electronics"
+- "Household"
+- "Books"
+- "Clothing & Accessories",
 
-The dataset has the following features :
+which almost cover 80% of any E-commerce website.
 
-Data Set Characteristics: Multivariate
+The dataset is in ".csv" sored in `data` directory format with two columns - the first column is the class name and the second one is the datapoint of that class. The data point is the product and description from the e-commerce website.
 
-Number of Instances: 50425
+The dataset has the following features:
 
-Number of classes: 4
+- Data Set Characteristics: **Multivariate**
+- Number of Instances: **50 425**
+- Number of classes: **4**

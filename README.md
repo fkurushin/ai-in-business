@@ -25,4 +25,8 @@ The dataset has the following features:
 
 - EDA
 - Text processing
-- TfIdf + LogReg with 0.92 score
+- TfIdf + LogReg with `f1_weighted = 0.925`
+
+# Files:
+
+

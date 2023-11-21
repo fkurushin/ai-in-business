@@ -85,6 +85,6 @@ if __name__ == "__main__":
             
     with open('data/test.txt', 'w') as f:
         for each_text, each_label in zip(train['text'], test['class']):
-            f.writelines(f'__label__{each_label} {each_text}\n')
+            f.writelines(f'__label__{each_label.replace(" ", "_")} {each_text}\n')
 
     print("write files for fasttext training in data/train.txt and data/test.txt\n")

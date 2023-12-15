@@ -26,7 +26,4 @@ The dataset has the following features:
 - EDA
 - Text processing
 - TfIdf + LogReg with `f1_weighted = 0.925`
-
-# Files:
-
-
+- Fasttext `f1_weighted = 1.0`
